@@ -454,7 +454,7 @@
       "idf": "",
       "netlist": "parasite.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "parasite.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
